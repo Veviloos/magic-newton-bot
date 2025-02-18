@@ -2,7 +2,7 @@
 
 Magic Newton Daily roll bot
 If you can not have account register here:
-https://magicnewton.com/portal?referral=trtwhooklqs0jr7g
+https://magicnewton.com/portal?referral=kigr4ke5lg36j55t
 
 ➖ Clone repository:
 ```
